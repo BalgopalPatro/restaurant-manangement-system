@@ -1,0 +1,15 @@
+{
+  "name": "restautant-mangement-system",
+  "productName": "Restaurant App",
+  "identifier": "com.shivajivarma.restautant-mangement-system",
+  "description": "Starter for your Electron application. Out of the box ready for serious stuff.",
+  "version": "0.1.0",
+  "author": "Shivaji Varma <contact@shivajivarma.com>",
+  "main": "background.js",
+  "config": {
+    "target": "development"
+  },
+  "dependencies": {
+    "fs-jetpack": "^0.7.0"
+  }
+}
